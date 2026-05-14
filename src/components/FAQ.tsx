@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Plus, Minus } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
 import { useTranslation } from "react-i18next";
-import { fadeUp, stagger } from "./Reveal";
+import { fadeUp, stagger } from "./revealVariants";
 
 export default function FAQ() {
   const { t } = useTranslation();

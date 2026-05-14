@@ -1,7 +1,7 @@
 import { motion } from "motion/react";
 import { useTranslation } from "react-i18next";
 import { MapPin, Phone, Mail } from "lucide-react";
-import { fadeUp, stagger } from "./Reveal";
+import { fadeUp, stagger } from "./revealVariants";
 
 export default function Contact() {
   const { t } = useTranslation();

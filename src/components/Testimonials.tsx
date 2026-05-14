@@ -1,7 +1,7 @@
 import { Quote } from "lucide-react";
 import { motion } from "motion/react";
 import { useTranslation } from "react-i18next";
-import { fadeUp, stagger } from "./Reveal";
+import { fadeUp, stagger } from "./revealVariants";
 
 export default function Testimonials() {
   const { t } = useTranslation();

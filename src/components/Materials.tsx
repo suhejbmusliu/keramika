@@ -1,6 +1,6 @@
 import { motion } from "motion/react";
 import { useTranslation } from "react-i18next";
-import { fadeUp, stagger } from "./Reveal";
+import { fadeUp, stagger } from "./revealVariants";
 
 export default function Materials() {
   const { t } = useTranslation();

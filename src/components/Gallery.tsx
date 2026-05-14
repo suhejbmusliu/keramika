@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { AnimatePresence, motion } from "motion/react";
 import { X } from "lucide-react";
-import { fadeUp, stagger } from "./Reveal";
+import { fadeUp, stagger } from "./revealVariants";
 
 type Category = "all" | "ceramics" | "work";
 
