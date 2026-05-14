@@ -8,7 +8,7 @@ export default {
     contact: "Kontakt",
   },
   hero: {
-    eyebrow: "OD 2002 — BUSTRAN, SRBIJA",
+    eyebrow: "OD 2002 — PRESEVO, SRBIJA",
     primary: "Zatraži ponudu",
     secondary: "Pogledaj naš rad",
     slides: [

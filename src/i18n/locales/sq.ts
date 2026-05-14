@@ -8,7 +8,7 @@ export default {
     contact: "Kontakti",
   },
   hero: {
-    eyebrow: "QYSH 2002 — BUSTRAN, SERBI",
+    eyebrow: "QYSH 2002 — PRESEVO, SERBI",
     primary: "Kërko ofertë",
     secondary: "Shih punën tonë",
     slides: [
